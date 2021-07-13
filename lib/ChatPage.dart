@@ -16,10 +16,10 @@ class _ChatPageState extends State<ChatPage> {
       body: ListView(
           children: [
           CustomCard(),
-            CustomCard(),
-            CustomCard(),
-            CustomCard(),
-            CustomCard(),
+            // CustomCard(),
+            // CustomCard(),
+            // CustomCard(),
+            // CustomCard(),
             CustomCard(),
             CustomCard(),
             CustomCard(),
